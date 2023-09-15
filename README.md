@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Adam Ousmer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamousmer) 
 
 # 💻 Tech Stack:
-<img alt="java" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fk12.na.edu%2Favada_portfolio%2Fjava%2F&psig=AOvVaw29L51TeF2VZWCnXFRmS2_g&ust=1694839601423000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC4-9Tnq4EDFQAAAAAdAAAAABAE">_
+<img alt="java" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fk12.na.edu%2Favada_portfolio%2Fjava%2F&psig=AOvVaw29L51TeF2VZWCnXFRmS2_g&ust=1694839601423000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC4-9Tnq4EDFQAAAAAdAAAAABAE](https://k12.na.edu/wp-content/uploads/2016/03/Java-Programming-Language-1.png)">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdamOusmer&theme=monokai&hide_border=false)<br/>
