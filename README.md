@@ -9,7 +9,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Adam Ousmer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamousmer) 
 
 # 💻 Tech Stack:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamOusmer&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+JAVA
+PYTHON
+C
+C++
+Swift
+HTML/CSS
+JAVASCRIPT
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdamOusmer&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdamOusmer&theme=monokai&hide_border=false)<br/>
