@@ -1,5 +1,4 @@
-# <img src="https://github.com/AdamOusmer/AdamOusmer/assets/114683902/6fa13e9a-4ee4-49da-90c5-ae029e2b83ef" width="400px">
- About Me:
+# <img src="https://github.com/AdamOusmer/AdamOusmer/assets/114683902/6fa13e9a-4ee4-49da-90c5-ae029e2b83ef" width="100px">About Me:
 
 
 🎓 Studying Software Engineering at Concordia <br> 🚀 Developing CT Scan Analyzer for Rocket Engines <br> 🌌 Software Developer at Space Concordia - Rocketry Division <br> 💻 Fullstack Developer
