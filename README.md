@@ -3,7 +3,7 @@
 
 🎓 Studying Software Engineering at Concordia <br> 🚀 Developing CT Scan Analyzer for Rocket Engines <br> 🌌 Software Developer at Space Concordia - Rocketry Division <br> 💻 Fullstack Developer<br><br>
 
-###Surpassing dreams, achieving more.
+###### Surpassing dreams, achieving more.
 
 ##  Languages and Tools
 <!-- Languages: Java, Python, C, C++, Swift, JavaScript, PHP -->
