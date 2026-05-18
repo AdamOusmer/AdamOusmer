@@ -59,6 +59,7 @@
 
 </div>
 
+<br>
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=ItsMavey&style=for-the-badge&color=4c566a)
 
