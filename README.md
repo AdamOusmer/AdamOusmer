@@ -25,7 +25,7 @@
 
 
 ## About Me
-***
+
 
 🎓 &nbsp;Studying **Software Engineering** at **Concordia University**
 
@@ -35,7 +35,6 @@
 
 🥯 &nbsp;Currently building **[ItsBagelBot](https://itsbagelbot.com)** — a cross-cloud, zero trust, high availability, microservices Twitch bot
 
-***
 
 ## Tech Stack
 <div align="center">
@@ -60,7 +59,6 @@
 
 </div>
 
-***
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=ItsMavey&style=for-the-badge&color=4c566a)
 
