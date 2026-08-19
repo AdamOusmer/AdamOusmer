@@ -35,6 +35,7 @@
 
 🥯 &nbsp;Currently building **[ItsBagelBot](https://itsbagelbot.com)** — a cross-cloud, zero trust, high availability, microservices Twitch bot
 
+🙃 &nbsp;Currently building **[Bolota](https://bolota.adam-ousmer.dev)** — a npm package for interactive, deterministic, random svg blobs.
 
 ## Tech Stack
 <div align="center">
