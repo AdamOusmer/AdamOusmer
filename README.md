@@ -12,7 +12,7 @@
 
 # Hi, I'm Adam 
 
-### AI Engineer @ Mira AI
+### AI Engineer Intern @ Mira AI
 
 
 #### Software Engineering student @ Concordia University
