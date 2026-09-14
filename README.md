@@ -12,8 +12,11 @@
 
 # Hi, I'm Adam 
 
-### Software Engineering student @ Concordia University
-### Fullstack Developer
+### AI Engineer @ Mira AI
+
+
+#### Software Engineering student @ Concordia University
+#### Fullstack Developer
 
 > I love bagels
 
