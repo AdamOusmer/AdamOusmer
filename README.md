@@ -32,6 +32,8 @@
 
 🎓 &nbsp;Studying **Software Engineering** at **Concordia University**
 
+🏆 &nbsp;First Place in CodeML 2026 -  Ivado's Challenge
+
 🧠 &nbsp;**Independent Research** on formal methods with Dr. Ali Jannaptour and Dr. Constantinos Constantinides
 
 🚀 &nbsp;**Space Concordia - Rocketry Division**: Built ThrustOptima to safely analyze engines alongside custom calibration scripts for sensors.
